@@ -7,14 +7,8 @@ This project showcases my skills, projects, and contact details in a clean and r
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link-here
-
----
-
-## 🎥 Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+[🔗 https://your-live-demo-link-here
+](https://dnyaneshwari047-gif.github.io/CodeAlpha_Portfolio/)
 ---
 
 ## 📌 About Me
